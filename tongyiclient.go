@@ -6,11 +6,11 @@ import (
 	"log"
 	"strings"
 
-	embedding "github.com/devinyf/dashscopego/embedding"
-	httpclient "github.com/devinyf/dashscopego/httpclient"
-	"github.com/devinyf/dashscopego/paraformer"
-	"github.com/devinyf/dashscopego/qwen"
-	"github.com/devinyf/dashscopego/wanx"
+	embedding "github.com/zhs007/dashscopego/embedding"
+	httpclient "github.com/zhs007/dashscopego/httpclient"
+	"github.com/zhs007/dashscopego/paraformer"
+	"github.com/zhs007/dashscopego/qwen"
+	"github.com/zhs007/dashscopego/wanx"
 )
 
 type TongyiClient struct {

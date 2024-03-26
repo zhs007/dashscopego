@@ -10,8 +10,8 @@ import (
 	"os/user"
 	"path/filepath"
 
-	"github.com/devinyf/dashscopego"
-	"github.com/devinyf/dashscopego/wanx"
+	"github.com/zhs007/dashscopego"
+	"github.com/zhs007/dashscopego/wanx"
 )
 
 func main() {

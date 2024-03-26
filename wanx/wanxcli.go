@@ -6,7 +6,7 @@ import (
 	"log"
 	"time"
 
-	httpclient "github.com/devinyf/dashscopego/httpclient"
+	httpclient "github.com/zhs007/dashscopego/httpclient"
 )
 
 var (

@@ -6,7 +6,7 @@
 
 Install:
 ```sh
-go get -u github.com/devinyf/dashscopego
+go get -u github.com/zhs007/dashscopego
 ```
 
 #### Examples:
@@ -27,8 +27,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/devinyf/dashscopego"
-	"github.com/devinyf/dashscopego/qwen"
+	"github.com/zhs007/dashscopego"
+	"github.com/zhs007/dashscopego/qwen"
 )
 
 func main() {
@@ -277,8 +277,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/devinyf/dashscopego"
-	"github.com/devinyf/dashscopego/paraformer"
+	"github.com/zhs007/dashscopego"
+	"github.com/zhs007/dashscopego/paraformer"
 )
 
 func main() {
