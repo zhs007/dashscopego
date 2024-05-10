@@ -11,8 +11,8 @@ import (
 	"path/filepath"
 	"time"
 
-	httpclient "github.com/devinyf/dashscopego/httpclient"
 	"github.com/gabriel-vasile/mimetype"
+	httpclient "github.com/zhs007/dashscopego/httpclient"
 )
 
 // upload image to aliyun oss that can be described by LLM

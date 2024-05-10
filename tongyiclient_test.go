@@ -6,10 +6,10 @@ import (
 	"strings"
 	"testing"
 
-	httpclient "github.com/devinyf/dashscopego/httpclient"
-	qwen "github.com/devinyf/dashscopego/qwen"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
+	httpclient "github.com/zhs007/dashscopego/httpclient"
+	qwen "github.com/zhs007/dashscopego/qwen"
 	"go.uber.org/mock/gomock"
 )
 

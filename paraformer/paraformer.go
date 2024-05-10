@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strings"
 
-	httpclient "github.com/devinyf/dashscopego/httpclient"
 	"github.com/google/uuid"
+	httpclient "github.com/zhs007/dashscopego/httpclient"
 )
 
 func ConnRecognitionClient(request *Request, token string) (*httpclient.WsClient, error) {
